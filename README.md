@@ -1,18 +1,17 @@
-# Radio Coda
+## Radio Coda
 
 This repository documents the infrastructure of the Radio Coda project.
 
 Radio Coda consists of 4 main components:
-1. Azuracast
-2. Radio Coda Discord Bot
-3. Radio Coda Stream
-4. Radio Coda Stream Utilities
+- [Radio Coda Discord Bot](#radio-coda-discord-bot)
+- [Radio Coda Stream](#radio-coda-stream)
+- [Radio Coda Stream Utilities](#radio-coda-stream-utilities)
 
-# Diagram
+## Diagram
 
 Coming Soon
 
-# Azuracast
+## Azuracast
 
 Azuracast is a free, open-source, radio station streaming service.
 It is responsible for providing the audio stream and Now Playing information to
