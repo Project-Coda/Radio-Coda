@@ -1,17 +1,15 @@
-## Radio Coda
+## Radio Coda <!-- omit in toc -->
 
 This repository documents the infrastructure of the Radio Coda project.
 
 Radio Coda consists of 4 main components:
 
-- [Radio Coda](#radio-coda)
-- [Diagram](#diagram)
 - [Azuracast](#azuracast)
 - [Radio Coda Discord Bot](#radio-coda-discord-bot)
 - [Radio Coda Stream](#radio-coda-stream)
 - [Radio Coda Stream Utilities](#radio-coda-stream-utilities)
 
-## Diagram
+## Diagram <!-- omit in toc -->
 
 ![Diagram](./Radio%20Coda.drawio.svg)
 
