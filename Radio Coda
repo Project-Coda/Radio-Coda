@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T01:00:48.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="0EBmEtu8I5pEaVPiyh5B" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T01:04:19.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="VbcTHmVBMgFyMfN1tKTJ" version="17.4.5" type="github">
   <diagram id="FB_5QC_wICbD3JPOlRQp" name="Page-1">
-    <mxGraphModel dx="808" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1697" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,11 +85,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="euECyOWKgV6rxWmyXpQC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="euECyOWKgV6rxWmyXpQC-15" target="euECyOWKgV6rxWmyXpQC-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="euECyOWKgV6rxWmyXpQC-15" value="Radio Coda Stream&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="730" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="euECyOWKgV6rxWmyXpQC-19" value="Now Playing Text" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="euECyOWKgV6rxWmyXpQC-16" target="euECyOWKgV6rxWmyXpQC-15">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="euECyOWKgV6rxWmyXpQC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="euECyOWKgV6rxWmyXpQC-16" target="euECyOWKgV6rxWmyXpQC-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="460" />
+              <mxPoint x="1030" y="460" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="euECyOWKgV6rxWmyXpQC-16" value="Radio Coda Stream Utilities" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="970" y="310" width="120" height="60" as="geometry" />
@@ -99,6 +110,12 @@
         </mxCell>
         <mxCell id="euECyOWKgV6rxWmyXpQC-22" value="&lt;b&gt;Discord VC Text in Chat&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="150" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="euECyOWKgV6rxWmyXpQC-29" value="YouTube&lt;br&gt;Livestream" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="730" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="euECyOWKgV6rxWmyXpQC-31" value="YouTube Chat" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="970" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
